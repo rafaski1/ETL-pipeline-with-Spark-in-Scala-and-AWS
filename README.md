@@ -1,4 +1,4 @@
-## AWS-S3-Glue-RDS-ETL-pipeline-with-Spark-in-Scala
+## ETL-pipeline-with-Spark-in-Scala-and-AWS
 Creating AWS S3-Glue-RDS ETL pipeline with Spark in Scala
 
 Uploading file to AWS S3 bucket, creating a job in AWS Glue, 
